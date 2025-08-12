@@ -1,8 +1,15 @@
 body{
-background-color: black;
-color: darkviolet;
+    background-color: black;
+    color: darkviolet;
 
 
-
-
+} 
+section{
+        background-color: black;
+        padding-block:80px;
+        padding-bottom:80px;
+        display: flex;
+        justify-content: center;
 }
+{
+.chamada-texto
